@@ -43,7 +43,7 @@ const HomePage = () => {
             </div>
             <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
                 <div class="rounded-lg h-64 overflow-hidden">
-                <img alt="content" class="object-cover object-center h-full w-full" src="https://media.istockphoto.com/id/1372006463/photo/two-asian-man-and-woman-engineer-wears-white-safety-helmet-stand-hold-orangeprint-and-radio.jpg?s=612x612&w=0&k=20&c=Ly6H3qnAXZ3lgkI8B5YWX30wkxxs9jOPMJiP5exuDbs=" />
+                <img alt="content" class="object-cover object-center h-full w-full" src="https://info.ehl.edu/hubfs/Customer%20centricity-1.jpeg" />
                 </div>
                 <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Customer-Centric Approach</h2>
                 <p class="text-base leading-relaxed mt-2">At Boi Squared Engineering, our customers are at the heart of everything we do. We prioritize their needs, preferences, and goals, ensuring that every solution we deliver is tailored to meet their unique requirements. Our customer-centric approach sets us apart, fostering long-term relationships built on trust, transparency, and mutual success.</p>
