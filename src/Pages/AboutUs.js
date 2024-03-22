@@ -79,7 +79,7 @@ const AboutUs = () => {
     <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1203x503" />
+          <img alt="content" class="object-cover object-center h-full w-full" src="https://www.hfmmagazine.com/ext/resources/images/2020/Online-magazine/May/HFM_CS1_18_700x468.jpg" />
         </div>
         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Excellence</h2>
         <p class="text-base leading-relaxed mt-2">We are driven by a relentless pursuit of excellence in everything we do, setting high standards and continuously striving to exceed them.</p>
@@ -91,7 +91,7 @@ const AboutUs = () => {
       </div>
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1204x504" />
+          <img alt="content" class="object-cover object-center h-full w-full" src="https://leadx.org/wp-content/uploads/2019/05/shutterstock_506137132-696x464.jpg" />
         </div>
         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Integrity</h2>
         <p class="text-base leading-relaxed mt-2">We conduct our business with honesty, transparency, and integrity, building trust and credibility with our clients, partners, and stakeholders.</p>
@@ -103,7 +103,7 @@ const AboutUs = () => {
       </div>
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505" />
+          <img alt="content" class="object-cover object-center h-full w-full" src="https://robllewellyn.com/wp-content/uploads/2023/02/Innovation-Definition.jpg" />
         </div>
         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Innovation</h2>
         <p class="text-base leading-relaxed mt-2">We embrace change and innovation, constantly seeking new ways to improve and evolve our products, services, and processes.</p>
@@ -115,7 +115,7 @@ const AboutUs = () => {
       </div>
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505" />
+          <img alt="content" class="object-cover object-center h-full w-full" src="https://kumospace.mo.cloudinary.net/https://content.kumospace.com/hubfs/iStock-1412778148.jpg?tx=w_responsive:fallback-max-width_1159;fallback-max-width-mobile_720" />
         </div>
         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Collaboration</h2>
         <p class="text-base leading-relaxed mt-2">We believe in the power of collaboration, working closely with our clients and partners to co-create solutions that address their unique needs and challenges.</p>
@@ -127,7 +127,7 @@ const AboutUs = () => {
       </div>
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505" />
+          <img alt="content" class="object-cover object-center h-full w-full" src="https://www.theconstructionindex.co.uk/assets/news_articles/2023/03/1678889209_15mar23-marcum.jpg" />
         </div>
         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Community</h2>
         <p class="text-base leading-relaxed mt-2">We are committed to making a positive impact in the communities we serve, contributing to social responsibility initiatives and supporting causes that matter.</p>
@@ -139,7 +139,7 @@ const AboutUs = () => {
       </div>
       <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
         <div class="rounded-lg h-64 overflow-hidden">
-          <img alt="content" class="object-cover object-center h-full w-full" src="https://dummyimage.com/1205x505" />
+          <img alt="content" class="object-cover object-center h-full w-full" src="https://www.idexxcurrents.com/media/filer_public_thumbnails/filer_public/58/f0/58f0ba1e-f6aa-4378-8736-ac64d9b406df/quality-assurance-servic_1.jpg__800x500_q80_crop_subject_location-570%2C252_subsampling-2.jpg" />
         </div>
         <h2 class="text-xl font-medium title-font text-gray-900 mt-5">Quality Assurance</h2>
         <p class="text-base leading-relaxed mt-2">Our products are built to the highest standards of quality and reliability, ensuring long-lasting performance and customer satisfaction.</p>
