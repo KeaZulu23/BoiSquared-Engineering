@@ -18,8 +18,6 @@ const Contact = () => {
         <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
           <a class="text-orange-500 leading-relaxed">info@boisquaredeng.co.za</a>
-          <a class="text-orange-500 leading-relaxed">karabo@boisquaredeng.co.za</a>
-          <a class="text-orange-500 leading-relaxed">nthabi@boisquaredeng.co.za</a>
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">PHONE</h2>
           <p class="leading-relaxed">+27 11 736 1100</p>
           <p class="leading-relaxed">+27 73 099 6678</p>
