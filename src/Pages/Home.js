@@ -31,7 +31,7 @@ const HomePage = () => {
                 <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Who We Are</h1>
                 <div class="h-1 w-20 bg-orange-500 rounded"></div>
             </div>
-            <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Established in 2024, Boi Squared carries forward a rich heritage of telecommunication expertise. From our humble beginnings to our present-day stature as industry leaders, we have remained steadfast in our commitment to excellence, innovation, and customer satisfaction. Our journey is defined by a relentless pursuit of perfection and an unwavering dedication to meeting the evolving needs of our clients.</p>
+            <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Established in 2021, Boi Squared carries forward a rich heritage of telecommunication expertise. From our humble beginnings to our present-day stature as industry leaders, we have remained steadfast in our commitment to excellence, innovation, and customer satisfaction. Our journey is defined by a relentless pursuit of perfection and an unwavering dedication to meeting the evolving needs of our clients.</p>
             </div>
             <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4">
             <div class="p-4 md:w-1/3 sm:mb-0 mb-6">
