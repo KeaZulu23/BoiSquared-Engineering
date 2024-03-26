@@ -47,7 +47,7 @@ const Navbar = () => {
                             </div>
                         </div>
                         <div className="flex items-center justify-center w-12 h-12 bg-green-500 rounded-full">
-                            <Chat className="w-8 h-8 text-white" />
+                            <a href="https://wa.me/+27730996678"><Chat className="w-8 h-8 text-white" /></a>
                         </div>
                     </div>
                 </nav>
