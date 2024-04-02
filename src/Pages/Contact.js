@@ -13,7 +13,7 @@ const Contact = () => {
       <div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
         <div class="lg:w-1/2 px-6">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
-          <p class="mt-1">1 Bental Avenue, Eastlands office Park, Regus Building, Boksburg</p>
+          <p class="mt-1">1 Bentel Avenue, Eastlands office Park, Boksburg</p>
         </div>
         <div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
           <h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">EMAIL</h2>
