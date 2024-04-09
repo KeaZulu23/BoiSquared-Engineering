@@ -6,67 +6,33 @@ const AboutUs = () => {
     return (
         <>
             <Navbar />
-            <section class="text-gray-600 body-font">
             <div class="container px-5 py-24 mx-auto">
-                <div class="flex flex-wrap w-full mb-20">
-                <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
-                    <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Our Story</h1>
-                    <div class="h-1 w-20 bg-orange-500 rounded"></div>
+               
+                <div className="2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
+            <p className="font-normal text-sm leading-3 text-orange-700 hover:text-orange-800 cursor-pointer pb-2">About</p>
+            <div className="flex lg:flex-row flex-col lg:gap-8 sm:gap-10 gap-12">
+                <div className="w-full lg:w-6/12">
+                    <h2 className="w-full font-bold lg:text-4xl text-3xl lg:leading-10 leading-9 text-gray-800">Our Story</h2>
+                    <p className="font-normal text-base leading-6 text-gray-600 mt-6">Since our year of establishment, Boi Squared has been at the forefront of the telecommunication industry, pioneering innovations and setting new standards of excellence. Founded on the principles of integrity, reliability, and customer-centricity, we have grown from a modest beginning to become a trusted partner for businesses, organizations, and communities across South Africa.</p>
                 </div>
-                <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Since our year of establishment, Boi Squared has been at the forefront of the telecommunication industry, pioneering innovations and setting new standards of excellence. Founded on the principles of integrity, reliability, and customer-centricity, we have grown from a modest beginning to become a trusted partner for businesses, organizations, and communities across South Africa.</p>
+                <div className="w-full lg:w-6/12">
+                    <img className="lg:block hidden w-full" src="https://cdn12.picryl.com/photo/2016/12/31/radio-in-september-walkie-talkie-radio-computer-communication-cb9b79-1024.jpg" alt="people discussing on board" />
+                    <img className="lg:hidden sm:block hidden w-full" src="https://cdn12.picryl.com/photo/2016/12/31/radio-in-september-walkie-talkie-radio-computer-communication-cb9b79-1024.jpg" alt="people discussing on board" />
+                    <img className="sm:hidden block w-full" src="https://cdn12.picryl.com/photo/2016/12/31/radio-in-september-walkie-talkie-radio-computer-communication-cb9b79-1024.jpg" alt="people discussing on board" />
                 </div>
-                <div class="container px-5 py-24 mx-auto">
-                <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
-                <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-orange-100 text-orange-500 flex-shrink-0">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
-                    <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
-                    </svg>
+            </div>
+
+            
+            
+
+            <div className="flex lg:flex-row flex-col md:gap-14 gap-16 justify-between lg:mt-20 mt-16">
+                <div className="w-full lg:w-6/12">
+                    <h2 className="font-bold lg:text-4xl text-3xl lg:leading-9 leading-7 text-gray-800">Our Mission</h2>
+                    <p className="font-normal text-base leading-6 text-gray-600 mt-6 w-full lg:w-10/12 xl:w-9/12">At Boi Squared, our mission is simple yet profound: to empower our clients with the tools they need to thrive in an interconnected world. We believe that communication is more than just technology; it's the heartbeat of every interaction, the catalyst for progress, and the foundation of success. Through our innovative solutions and unwavering dedication, we strive to make communication seamless, reliable, and accessible to all.</p>
                 </div>
-                <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-                    <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Our Mission</h2>
-                    <p class="leading-relaxed text-base">At Boi Squared, our mission is simple yet profound: to empower our clients with the tools they need to thrive in an interconnected world. We believe that communication is more than just technology; it's the heartbeat of every interaction, the catalyst for progress, and the foundation of success. Through our innovative solutions and unwavering dedication, we strive to make communication seamless, reliable, and accessible to all.</p>
-                    <a class="mt-3 text-orange-500 inline-flex items-center">Learn More
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                        <path d="M5 12h14M12 5l7 7-7 7"></path>
-                    </svg>
-                    </a>
-                </div>
-                </div>
-                <div class="flex items-center lg:w-3/5 mx-auto border-b pb-10 mb-10 border-gray-200 sm:flex-row flex-col">
-                <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-                    <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Our Team</h2>
-                    <p class="leading-relaxed text-base">Behind every success story at Boi Squared Engineering is a team of dedicated professionals who share a passion for excellence and a commitment to service. From our experienced leadership team to our skilled technicians and support staff, every member of the Boi Squared Engineering family plays a vital role in delivering exceptional value to our clients.</p>
-                    <a class="mt-3 text-orange-500 inline-flex items-center">Learn More
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                        <path d="M5 12h14M12 5l7 7-7 7"></path>
-                    </svg>
-                    </a>
-                </div>
-                <div class="sm:w-32 sm:order-none order-first sm:h-32 h-20 w-20 sm:ml-10 inline-flex items-center justify-center rounded-full bg-orange-100 text-orange-500 flex-shrink-0">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
-                    <circle cx="6" cy="6" r="3"></circle>
-                    <circle cx="6" cy="18" r="3"></circle>
-                    <path d="M20 4L8.12 15.88M14.47 14.48L20 20M8.12 8.12L12 12"></path>
-                    </svg>
-                </div>
-                </div>
-                <div class="flex items-center lg:w-3/5 mx-auto sm:flex-row flex-col">
-                <div class="sm:w-32 sm:h-32 h-20 w-20 sm:mr-10 inline-flex items-center justify-center rounded-full bg-orange-100 text-orange-500 flex-shrink-0">
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="sm:w-16 sm:h-16 w-10 h-10" viewBox="0 0 24 24">
-                    <path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"></path>
-                    <circle cx="12" cy="7" r="4"></circle>
-                    </svg>
-                </div>
-                <div class="flex-grow sm:text-left text-center mt-6 sm:mt-0">
-                    <h2 class="text-gray-900 text-lg title-font font-medium mb-2">Our Promise</h2>
-                    <p class="leading-relaxed text-base">When you choose Boi Squared Engineering, you're not just choosing a vendor; you're choosing a partner who is dedicated to your success. We promise to listen to your needs, understand your challenges, and work tirelessly to deliver solutions that exceed your expectations. With Boi Squared Engineering by your side, the possibilities for communication are limitless.</p>
-                    <a class="mt-3 text-orange-500 inline-flex items-center">Learn More
-                    <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="w-4 h-4 ml-2" viewBox="0 0 24 24">
-                        <path d="M5 12h14M12 5l7 7-7 7"></path>
-                    </svg>
-                    </a>
-                </div>
-                </div>
+            </div>
+        </div>
+
                 <div class="container px-5 py-24 mx-auto">
     <div class="flex flex-col">
       <div class="h-1 bg-gray-200 rounded overflow-hidden">
@@ -152,8 +118,7 @@ const AboutUs = () => {
     </div>
   </div>
             </div>
-            </div>
-            </section>
+           
             <Footer />
         </>
     );

@@ -27,7 +27,7 @@ const Footer = () => {
                     </ul>
                 </div>
                 <hr class="my-6 border-black-200 sm:mx-auto dark:border-black-700 lg:my-8" />
-                <span class="block text-sm text-black-500 sm:text-center dark:text-black-400">© 2024 <a href="#" class="hover:underline">Boi Squared™</a>. All Rights Reserved.</span>
+                <span class="block text-sm text-black-500 sm:text-center dark:text-black-400">© 2024 <a href="#" class="hover:underline">Boi Squared Engineering™</a>. All Rights Reserved.</span>
             </div>
         </footer>
     );
