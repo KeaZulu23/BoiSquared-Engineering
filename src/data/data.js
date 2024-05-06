@@ -251,13 +251,6 @@ const products = [
             price: 29.99,
             imageURL: "https://hytera-europe.com/imager/images/250384/PDC680-Front-View-EN_5472332afa344033d2bf9e7b6b9d883e.png",
           },
-          {
-            id: 36,
-            name: "TLK 110 WAVE PTX RadioRadio - A device designed for you and built to last",
-            description: "The TLK 110 combines the flexibility of push-to-talk communication via broadband with the reliability of a rugged, purpose-built radio. With its effortless device management capabilities, the TLK 110 can be optimised for seamless operations, leaving your business safer, smarter and better connected.",
-            price: 29.99,
-            imageURL: "https://www.motorolasolutions.com/content/dam/msi/Products/tlk110/tlk_110_front1.png",
-          },
     // Add more products as needed
   ];
   
