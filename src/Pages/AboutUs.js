@@ -16,9 +16,9 @@ const AboutUs = () => {
                     <p className="font-normal text-base leading-6 text-gray-600 mt-6">Since our year of establishment, Boi Squared has been at the forefront of the telecommunication industry, pioneering innovations and setting new standards of excellence. Founded on the principles of integrity, reliability, and customer-centricity, we have grown from a modest beginning to become a trusted partner for businesses, organizations, and communities across South Africa.</p>
                 </div>
                 <div className="w-full lg:w-6/12">
-                    <img className="lg:block hidden w-full" src="https://cdn12.picryl.com/photo/2016/12/31/radio-in-september-walkie-talkie-radio-computer-communication-cb9b79-1024.jpg" alt="people discussing on board" />
-                    <img className="lg:hidden sm:block hidden w-full" src="https://cdn12.picryl.com/photo/2016/12/31/radio-in-september-walkie-talkie-radio-computer-communication-cb9b79-1024.jpg" alt="people discussing on board" />
-                    <img className="sm:hidden block w-full" src="https://cdn12.picryl.com/photo/2016/12/31/radio-in-september-walkie-talkie-radio-computer-communication-cb9b79-1024.jpg" alt="people discussing on board" />
+                    <img className="lg:block hidden w-full" src="https://mms.businesswire.com/media/20220327005001/en/1399803/5/hytera_photo.jpg" alt="people discussing on board" />
+                    <img className="lg:hidden sm:block hidden w-full" src="https://mms.businesswire.com/media/20220327005001/en/1399803/5/hytera_photo.jpg" alt="people discussing on board" />
+                    <img className="sm:hidden block w-full" src="https://mms.businesswire.com/media/20220327005001/en/1399803/5/hytera_photo.jpg" alt="people discussing on board" />
                 </div>
             </div>
 
