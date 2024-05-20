@@ -4,7 +4,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import CTA from "../components/CTA.js";
 import pic1 from '../MD61X_2.jpg';
-import vid1 from "../video.mp4"
+import vid1 from "../video1.mp4"
 
 
 const features = [
