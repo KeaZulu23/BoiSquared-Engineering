@@ -4,8 +4,6 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import CTA from "../components/CTA.js";
 import pic1 from '../MD61X_2.jpg';
-import vid1 from "../video1.mp4"
-
 
 const features = [
   {
@@ -67,13 +65,13 @@ const HomePage = () => {
           </p>
           <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0">
             <a href="#" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg bg-orange-700 hover:bg-orange-800 focus:ring-4 focus:ring-orange-300 dark:focus:ring-orange-900">
-              Get Started
+              Get started
               <svg className="w-3.5 h-3.5 ms-2 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9" />
               </svg>
             </a>
             <a href="#" className="inline-flex justify-center hover:text-gray-900 items-center py-3 px-5 sm:ms-4 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-gray-100 focus:ring-4 focus:ring-gray-400">
-              Learn More
+              Learn more
             </a>
           </div>
         </div>
@@ -138,7 +136,7 @@ const HomePage = () => {
       </div>
 
       {/* Video Section */}
-      <section className="bg-white py-24 sm:py-32">
+      <section className="bg-gray-100 py-24 sm:py-32">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="lg:text-center">
             <h2 className="text-base font-semibold leading-7 text-orange-600">Discover Our Innovations</h2>
@@ -148,7 +146,7 @@ const HomePage = () => {
             </p>
           </div>
           <div className="mt-10 flex justify-center">
-            <iframe width="800" height="450" src={vid1} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay&mute=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe width="800" height="450" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </div>
         </div>
       </section>
