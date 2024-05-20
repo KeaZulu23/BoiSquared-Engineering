@@ -4,6 +4,7 @@ import Navbar from "../components/Navbar";
 import Footer from "../components/Footer";
 import CTA from "../components/CTA.js";
 import pic1 from '../MD61X_2.jpg';
+import vid1 from '../video.mp4'
 
 const features = [
   {
@@ -146,7 +147,7 @@ const HomePage = () => {
             </p>
           </div>
           <div className="mt-10 flex justify-center">
-            <iframe width="800" height="450" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
+            <iframe width="800" height="450" src={vid1} title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay&muted=1; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
           </div>
         </div>
       </section>
